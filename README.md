@@ -1,4 +1,4 @@
-# 🕹️ Cuberbash Nostalgic Games Collection
+# 🕹️ Cyberbash Nostalgic Games Collection
 
 A collection of classic browser games built with **JavaScript**, assembled as part of my entry for the **Cuberbash** competition at **Skool**. This project is all about revisiting nostalgic games we grew up playing—reimagined for the web.
 
@@ -8,7 +8,7 @@ A collection of classic browser games built with **JavaScript**, assembled as pa
 
 ## 🎯 Project Goal
 
-This project was created for the **Cuberbash** event to bring together multiple nostalgic games under one roof. It's a celebration of childhood favorites and a personal challenge to explore how these games can be implemented using **HTML**, **CSS**, and **JavaScript**.
+This project was created for the **Cyberbash** event to bring together multiple nostalgic games under one roof. It's a celebration of childhood favorites and a personal challenge to explore how these games can be implemented using **HTML**, **CSS**, and **JavaScript**.
 
 ---
 
